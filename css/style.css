@@ -58,7 +58,7 @@ html {
           transform: translate(-50%, -50%);
   height: 300px;
   width: 300px;
-  background-image: url(../../data/img/learn.jpg);
+  background-image: url(../data/img/learn.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: -60px 0px;
